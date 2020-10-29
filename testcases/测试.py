@@ -1,0 +1,1 @@
+q = {"stressList": [{"tpHigh": 9.0,"tpLow": 2.0,"defHigh": 0.0,"defLow": 0.0,"idx": 1}],"tempHigh": 100,"carId": 25,"balance": 0}

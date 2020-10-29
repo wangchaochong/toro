@@ -1,0 +1,44 @@
+log:
+  name: "requests"
+  logger_lev: "DEBUG"
+#  file_name: "log.txt"
+  stream_lev: "DEBUG"
+  file_lev: "INFO"
+
+excel:
+  file_name: "接口用例.xlsx"
+#  Sheet: ["注册","登录"]
+
+db:
+  host: "rm-wz930973056btd6j76o.mysql.rds.aliyuncs.com"
+  user: "nideshop_test"
+  password: "!Ji!Z4uQms25oFQs75#w"
+  database: ["tpms_toro","tpms"]
+
+
+user:
+  mobile_phone: "17748622176"
+  pwd: "12345678"
+
+
+admin_user:
+  mobile_phone: "17748622100"
+  pwd: "12345678"
+
+other_user:
+  mobile_phone: "17748622177"
+  pwd: "12345678"
+
+
+email_address:
+  smtp_server: smtp.qq.com
+  from_user: 1720574964@qq.com
+  from_pass_word: nmrxktepgeixdifa
+  to_user: ['819609179@qq.com','1720574964@qq.com']
+  subject: TORO接口测试报告
+  contents: "初步测试
+    ps:附件要以浏览器方式打开"
+#  file_name:
+
+
+
