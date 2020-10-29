@@ -12,7 +12,7 @@ excel:
 db:
   host: "rm-wz930973056btd6j76o.mysql.rds.aliyuncs.com"
   user: "nideshop_test"
-  password: "!Ji!Z4uQms25oFQs75#w"
+  password: ""
   database: ["tpms_toro","tpms"]
 
 

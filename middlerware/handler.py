@@ -11,7 +11,7 @@ from common.log_handler import get_logging
 
 class Handler():
     # 环境地址
-    host = "http://toro.buttonupup.com:8085"
+    host = ""
 
     # 获取yaml文件内容
     yaml_data = red_config(config.CONF_PATH)
